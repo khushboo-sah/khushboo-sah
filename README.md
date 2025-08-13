@@ -3,7 +3,8 @@
 ### 🚀 DevOps | Cloud | Automation Enthusiast
 
 💡 Passionate about building **scalable, automated infrastructure** and streamlining **CI/CD pipelines**.
-🌍 Based in Tallinn, Estonia | 🌱 Currently working on **Kubernetes, Terraform, AWS**
+🌍 Based in Tallinn, Estonia | 
+🌱 Currently working on **Kubernetes, Terraform, AWS**
 
 ---
 
