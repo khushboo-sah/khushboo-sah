@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Khushboo Sah  
+### 🚀 DevOps | Cloud | Automation Enthusiast  
 
-<!--
-**khushboo-sah/khushboo-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building scalable, automated infrastructure and streamlining CI/CD pipelines.  
+🌍 Based in India | 🌱 Currently learning **Kubernetes, Terraform, AWS**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **I’m currently working on**:  
+- AWS Infrastructure as Code with Terraform  
+- Kubernetes cluster deployments and Helm charts  
+- CI/CD pipelines with Jenkins & GitHub Actions  
+
+🌱 **I’m currently learning**:  
+- Python scripting for automation  
+- Cloud monitoring with Prometheus & Grafana  
+
+💬 **Ask me about**:  
+- DevOps, Cloud, CI/CD, Docker, Kubernetes  
+- Infrastructure Automation & Monitoring  
+
+📫 **How to reach me**:  
+- Email: **your-email@example.com**  
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/khushboo-kumari-462502106/)  
+- Medium: [medium.com/@yourusername](https://medium.com/@khushboo.sah067)  
+
+---
+
+### 🛠️ Languages and Tools  
+<p>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+📊 **GitHub Stats**  
+![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushboo-sah&show_icons=true&theme=radical)
+
+---
