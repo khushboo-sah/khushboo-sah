@@ -24,7 +24,7 @@
 DevOps, Cloud, CI/CD, Docker, Kubernetes, Infrastructure Automation & Monitoring
 
 📫 **Connect with me:**
-[Email](mailto:khushboo.sah067@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khushboo-kumari-462502106/) | [Medium](https://medium.com/@khushboo.sah067)
+[Email](mailto:khushboo.sah067@gmail.com) | [Medium](https://medium.com/@khushboo.sah067)
 
 ---
 
