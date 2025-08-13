@@ -20,7 +20,7 @@
 - Infrastructure Automation & Monitoring  
 
 📫 **How to reach me**:  
-- Email: **your-email@example.com**  
+- Email: **khushboo.sah067@gmail.com**  
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/khushboo-kumari-462502106/)  
 - Medium: [medium.com/@yourusername](https://medium.com/@khushboo.sah067)  
 
@@ -39,7 +39,3 @@
 
 ---
 
-📊 **GitHub Stats**  
-![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushboo-sah&show_icons=true&theme=radical)
-
----
