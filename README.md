@@ -24,8 +24,6 @@ DevOps, Cloud, CI/CD, Docker, Kubernetes, Infrastructure Automation & Monitoring
 
 ## 🛠️ Tools & Technologies
 
-## 🛠️ Tools & Technologies
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
