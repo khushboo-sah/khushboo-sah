@@ -70,9 +70,9 @@ I enjoy building scalable infrastructure, automating deployments, and ensuring r
   <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif"/>
 </p>
 
-- 💼 LinkedIn: *add your link here*  
-- 📩 Email: *add your email*  
-- 💻 GitHub: *your GitHub username*
+ 
+- 📩 Email: khushboo.sah067@gmail.com 
+- 💻 GitHub: https://github.com/khushboo-sah
 
 ---
 
