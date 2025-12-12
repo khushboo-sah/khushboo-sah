@@ -1,43 +1,83 @@
-# 👋 Hi, I'm Khushboo Kumari
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"/>
+</p>
 
-🚀 **DevOps | Cloud | Automation Enthusiast**  
-💡 Passionate about building scalable, automated infrastructure and streamlining CI/CD pipelines.  
+<h1 align="center">I'm Khushboo Kumari</h1>
 
-🌱 **Currently working on:**  
-- AWS Infrastructure as Code (IaC) with Terraform  
-- Kubernetes cluster deployments and Helm charts  
-- CI/CD pipelines with Jenkins & GitHub Actions  
-- Docker containerization and microservices orchestration  
-- Cloud monitoring with Prometheus & Grafana  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
+</p>
 
-🌱 **Currently learning:**  
-- Python scripting for automation  
-- Advanced cloud monitoring and alerting  
-
-💬 **Ask me about:**  
-DevOps, Cloud, CI/CD, Docker, Kubernetes, Infrastructure Automation & Monitoring  
-
-📫 **Connect with me:**  
-[Email](mailto:khushboo.sah067@gmail.com) | [Medium](https://medium.com/@khushboo.sah067)  
+<h3 align="center">♾️⚙️ DevOps & Cloud Engineer based in Tallinn, Estonia 🇪🇪</h3>
+<h3 align="center"> AWS • Docker • Kubernetes • Ansible • Terraform • CI/CD • Linux • Bash • Jenkins </h3>
 
 ---
 
-## 🛠️ Tools & Technologies
+🔧 I’m a DevOps and Cloud Engineer with hands-on experience in **AWS**, **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **CI/CD pipelines**.  
+I enjoy building scalable infrastructure, automating deployments, and ensuring reliable, production-ready environments.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+💼 Previously, I worked at **Ericsson** where I supported **test automation pipelines** using Jenkins, Docker, and CI/CD workflows.
 
+📚 I’ve completed an MSc in **Communicative Electronics** from Tallinn University of Technology and I’m deeply passionate about cloud infrastructure, automation, and DevOps tooling.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/>
+</p>
+
+📍 Currently open to **full-time DevOps roles** and **cloud engineering opportunities**.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"/>
+</p>
 
 ---
 
-✨ **Let's build cloud-native, scalable, and automated solutions together!**
+### 🛠️ Technologies and Tools I Use
+
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Light.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prometheus/prometheus-original.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/yaml/yaml-original.svg" height="40" />
+</p>
+
+---
+
+### 📦 Featured Projects
+
+- 🧩 **Two-tier Flask App with MySQL** – Deployed using Terraform + AWS + Jenkins CI/CD.
+- ☁️ **AWS Infrastructure Project** – EC2, RDS, S3, Auto-Scaling, Load Balancer, IAM, Route 53.
+- 🐳 **Dockerized Applications** – Containerizing Python/Flask applications with custom networks.
+- 🔧 **CI/CD Pipelines** – Jenkins, GitHub Actions, and GitLab CI for automated deployments.
+- 🧪 **IaC Projects** – Provisioning cloud infra using Terraform + Ansible.
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif"/>
+</p>
+
+- 💼 LinkedIn: *add your link here*  
+- 📩 Email: *add your email*  
+- 💻 GitHub: *your GitHub username*
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="160"/>
+</p>
